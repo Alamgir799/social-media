@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "380629265452",
+    "project_id": "the-metabitz-networking-e957f",
+    "storage_bucket": "the-metabitz-networking-e957f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380629265452:android:63b6ce45d1c28e281d3589",
+        "android_client_info": {
+          "package_name": "com.cannabitz.networking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380629265452-0n86n3p9pevvca7fm5l295ehbib6d1ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cannabitz.networking",
+            "certificate_hash": "3cee583b3a3352838ead4a9505f4023e34b99997"
+          }
+        },
+        {
+          "client_id": "380629265452-iu45rkue8fb36at8keuv7nnrpt9gi2bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LUWr68HitUx8vXdpR55l7k8zb_48UlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380629265452-iu45rkue8fb36at8keuv7nnrpt9gi2bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

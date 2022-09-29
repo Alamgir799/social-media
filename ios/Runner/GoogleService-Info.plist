@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>380629265452-ai00i52q808h300shtgg8ruvvnp6r2u9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.380629265452-ai00i52q808h300shtgg8ruvvnp6r2u9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>380629265452-0n86n3p9pevvca7fm5l295ehbib6d1ag.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAc9-O4dP12PUn-Qwxz0qSeBxggkl0xqWE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>380629265452</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cannabitz.networking</string>
+	<key>PROJECT_ID</key>
+	<string>the-metabitz-networking-e957f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-metabitz-networking-e957f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:380629265452:ios:31a0d1eca8a9a6651d3589</string>
+</dict>
+</plist>
